@@ -1,0 +1,7 @@
+int x; int y;
+int sum;
+
+int sum(int x,int y);
+int divesion(int x,int y)
+
+
